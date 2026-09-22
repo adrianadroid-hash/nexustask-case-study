@@ -272,4 +272,4 @@ This documentation is released under **CC BY 4.0** — you may share and adapt w
 ## Contact
 
 Adriana Andreeva — Business Operations & Process Improvement Specialist  
-Portfolio: [pending] • GitHub: [pending]
+GitHub: https://github.com/adrianadroid-hash
